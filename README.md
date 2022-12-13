@@ -1,7 +1,7 @@
-👋 oi! sou o @vagaborges
-👀 estou interessado em melhorar
-🌱 no momento estou aprendendo python
-📫 me encontre no [twitter](https://twitter.com/vagaborges)
+👋 oi! sou o @vagaborges  
+👀 estou interessado em melhorar  
+🌱 no momento estou aprendendo python  
+📫 me encontre no [twitter](https://twitter.com/vagaborges)  
 
 <!---
 vagaborges/vagaborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
